@@ -14,7 +14,11 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
 
+	overflow-x: hidden;
+
 }
+
+
 
 *,*:before, *:after {
     box-sizing: inherit;
@@ -24,3 +28,14 @@ img {
 	width: 100%;
 	display: block;
 }
+
+body {
+		background-image: url("../img/JBGuoI.png");
+		background-size: 17em;
+
+}
+
+.main-card {
+	background-color: white;
+}
+
