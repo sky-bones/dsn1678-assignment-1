@@ -14,10 +14,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
 
-	overflow-x: hidden;
-
 }
-
 
 
 *,*:before, *:after {
@@ -31,11 +28,44 @@ img {
 
 body {
 		background-image: url("../img/JBGuoI.png");
-		background-size: 17em;
+		background-size: 20em;
+		margin: 0;
+}
 
+h1 {
+	margin: 0;
+	color: white;
+}
+
+h2 {
+	margin: 0;
+}
+
+p {
+	margin-top: 10px;
 }
 
 .main-card {
-	background-color: white;
+	margin: 3em;
+	background-color: #bed0ff;
 }
+
+.me {
+	padding: 1em;
+}
+
+
+.links {
+	margin-bottom: 1em;
+}
+
+
+.abt-me {
+	padding: 1em;
+	margin: 5px;
+	background-color: white;
+	color: #bed0ff;
+}
+
+
 
