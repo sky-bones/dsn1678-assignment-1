@@ -45,6 +45,10 @@ p {
 	margin-top: 10px;
 }
 
+a {
+	text-decoration: none;
+}
+
 .main-card {
 	margin: 3em;
 	background-color: #bed0ff;
@@ -55,17 +59,13 @@ p {
 }
 
 
-.links {
-	margin-bottom: 1em;
-}
-
-
 .abt-me {
 	padding: 1em;
-	margin: 5px;
+	margin: 5px 5px 5px 5px;
 	background-color: white;
 	color: #bed0ff;
 }
+
 
 
 
